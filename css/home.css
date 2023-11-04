@@ -28,3 +28,22 @@ a {
     color: #ffffff;
     font-family: sans-serif;
 }
+
+main {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.campeao {
+    width: 500px;
+    border: none;
+    border-radius: 10px;
+}
+
+p {
+    width: 510px;
+    font-family: sans-serif;
+}
