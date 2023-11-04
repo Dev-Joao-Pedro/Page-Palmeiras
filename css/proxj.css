@@ -1,0 +1,65 @@
+header {
+    background-color: #029b02;
+    margin: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 85px;
+    height: 85px;
+    margin-left: 15px;
+}
+
+.frase {
+    width: 300px;
+}
+
+li {
+    display: flex;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+a {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+main {
+    margin-top: 30px;
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 400px;
+}
+
+footer {
+    background-color: #029b02;
+    margin-top: 20px;
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+}
+
+.nick {
+    color: #ffffff;
+    font-family: sans-serif;
+    width: 140px;
+}
+
+.insta {
+    width: 50px;
+    height: 50px;
+}
